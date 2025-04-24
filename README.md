@@ -135,7 +135,7 @@ void loop() {
 
 # OUTPUT:
 
-![WhatsApp Image 2025-04-17 at 13 35 21_94272f2c](https://github.com/user-attachments/assets/c321eaa0-2d7d-4481-8e3e-5371e04283a4)
+
 ![image](https://github.com/user-attachments/assets/896a1ae0-cab1-4e22-a3dc-d3767e49c6a5)
 
 # RESULT:
