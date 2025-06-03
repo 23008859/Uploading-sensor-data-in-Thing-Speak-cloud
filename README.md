@@ -1,5 +1,6 @@
 # Uploading temperature sensor data in Thing Speak cloud
-
+# NAME : Roshini s
+# Reg No: 212223230174
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
